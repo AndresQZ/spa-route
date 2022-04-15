@@ -9,6 +9,7 @@
     "serve:standalone": "vue-cli-service serve --mode standalone"
   },
   "dependencies": {
+    "@web-taxco/spa-shared-state": "npm:@andresqz/spa-shared-state@^1.0.2",
     "core-js": "^3.8.3",
     "single-spa-vue": "^2.1.0",
     "vue": "^3.2.13",
