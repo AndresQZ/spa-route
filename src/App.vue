@@ -1,6 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+   <HelloWorld msg="Welcome to Your Vue.js App" sharedData="The app's aim is handle share-state "></HelloWorld>
 </template>
 
 <script>
